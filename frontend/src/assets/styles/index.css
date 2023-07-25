@@ -1,0 +1,64 @@
+main {
+  min-height: 80vh;
+}
+
+main {
+  min-height: 80vh;
+}
+
+.cards-mobile{
+  width: 100%;
+}
+
+.add-btn{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.modal-details {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.modal-details p {
+  color: #767676;
+}
+
+.modal-details h4 {
+  color: black;
+}
+
+.modal-details-1 h5 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+.pagination-div{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.modal-details-1 {
+  display: flex;
+}
+
+.modal-proof {
+  margin-left: 100px;
+}
+
+.modal-status-mobile{
+  margin: 50px 0 20px 0;
+}
+
+.modal-details-mobile p {
+  color: #767676;
+}
+
+.modal-details-mobile h6 {
+  color: black;
+}
+
